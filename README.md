@@ -1,5 +1,7 @@
 hadoopSandbox
 =============
+LICENSE: http://www.apache.org/licenses/LICENSE-2.0.html
+
 Please see the sub-directories for information. 
 
 Currently this project maintains one submitted patch to 
@@ -10,3 +12,5 @@ The version it was created for was the 0.20.x line,
 should be fairly easy to update for 0.23.x+
 
 bitsofinfo.wordpress.com
+
+
